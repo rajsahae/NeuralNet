@@ -12,7 +12,7 @@ import org.junit.Test;
 
 
 /**
- * @author rsahae
+ * @author Raj Sahae
  *
  */
 public class GeneticAlgorithmTest {
